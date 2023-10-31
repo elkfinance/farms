@@ -1,0 +1,32 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "q"
+    ],
+    "name": "Elk Q Farms",
+    "timestamp": "2023-10-31T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x5Bd5Bf6Ac02f8aceabE27DB69C51daF7c5172909",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0xB4c40bB97f0B2B6fF94C819a8a494b4f14B72AA2",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0x2a6B4a23EE55C6613521C726D79f348b385Eabe9",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19",
+            "whitelist": "verified"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
