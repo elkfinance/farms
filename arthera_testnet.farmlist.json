@@ -6,7 +6,21 @@
     ],
     "name": "Elk Arthera Farms",
     "timestamp": "2023-10-31T17:42:41+00:00",
-    "farms": [],
+    "farms": [
+        {
+            "address": "0x66Be5686BBdF99ACBC1ab61a5375d9786cb1629D ",
+            "whitelist": "official"
+        },
+        {
+            "address": "0xcc59BE9729804a7B9aDd6748dd5Ef6445582F8c3  ",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0xF2fEe078ceE39EE86001794B13D11c9b17ce09a4  ",
+            "whitelist": "unsafe"
+        },
+        
+    ],
     "version": {
         "major": 1,
         "minor": 0,
