@@ -18,8 +18,7 @@
         {
             "address": "0xF2fEe078ceE39EE86001794B13D11c9b17ce09a4  ",
             "whitelist": "unsafe"
-        },
-        
+        }
     ],
     "version": {
         "major": 1,
