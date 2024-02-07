@@ -22,10 +22,14 @@
         {
             "address": "0x0fBc8f8B56f5688417D9E7e585c1F106E8b19A19",
             "whitelist": "verified"
+        },
+        {
+            "address": "0x552CA53B470cBA194BD65382fA226dCa7dCADf21",
+            "whitelist": "verified"
         }
     ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
