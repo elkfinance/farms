@@ -5,10 +5,15 @@
         "avax"
     ],
     "name": "Elk Avalanche Farms",
-    "timestamp": "2023-10-31T17:42:41+00:00",
-    "farms": [],
+    "timestamp": "2024-05-21T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x945340E54bF62F74EFaF9E46B1F73b2eb52880a4",
+            "whitelist": "verified"
+        }
+    ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
