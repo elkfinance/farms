@@ -8,12 +8,12 @@
     "timestamp": "2024-07-01T17:42:41+00:00",
     "farms": [
               {
-            "address": "0x9Ae4818ccdD3236d2EAF3Ced706F9294F43818fe",
+            "address": "0x9AE4818CCDD3236d2eAf3ceD706f9294f43818FE",
             "whitelist": "verified"
               }
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     }
