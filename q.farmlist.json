@@ -30,10 +30,23 @@
         {
             "address": "0xeD1b8F567820868A048944B4cF3009804cd13C2d",
             "whitelist": "verified"
+        },
+        {
+            "address": "0x7D450DDB83fB356b0F2B457179fd46669688d5b7",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0x91a63B603D7c8F7C77c865a5dB4b606b5255e899",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0xd690acC5f6DAFdC064f5C26800bBad2E9603610B",
+            "whitelist": "verified"
         }
+        
     ],
     "version": {
-        "major": 3,
+        "major": 4,
         "minor": 0,
         "patch": 0
     }
