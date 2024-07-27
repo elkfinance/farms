@@ -18,7 +18,7 @@
         {
             "address": "0x9f9a17f47002b7c8373bDbBabFc32780334f1d5F",
             "whitelist": "verified"
-        },
+        }
     ],
     "version": {
         "major": 2,
