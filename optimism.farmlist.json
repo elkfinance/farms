@@ -5,10 +5,19 @@
         "optimism"
     ],
     "name": "Elk Optimism Farms",
-    "timestamp": "2023-10-31T17:42:41+00:00",
-    "farms": [],
+    "timestamp": "2024-08-26T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0xC27701b3A742f2e3b66E82D5e463cB30C8573b08",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0xa355b573D90663d19CC2E8481b3c44056E38f845",
+            "whitelist": "verified"
+        },
+    ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
