@@ -5,10 +5,23 @@
         "arbitrum"
     ],
     "name": "Elk Arbitrum Farms",
-    "timestamp": "2023-10-31T17:42:41+00:00",
-    "farms": [],
+    "timestamp": "2024-08-26T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x455519Db6b217DFaA7E404e2805a80327d11508F",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0x75a196A7De0Ed06042d4b53CA8AcDdDBf49322c8",
+            "whitelist": "verified"
+        },
+        {
+            "address": "0x9f9a17f47002b7c8373bDbBabFc32780334f1d5F",
+            "whitelist": "verified"
+        },
+    ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
