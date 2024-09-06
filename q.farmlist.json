@@ -42,12 +42,16 @@
         {
             "address": "0xd690acC5f6DAFdC064f5C26800bBad2E9603610B",
             "whitelist": "verified"
+        },
+        {
+            "address": "0x06a7F72aD6e36a054C8b001670B9645C681A0d64",
+            "whitelist": "verified"
         }
         
     ],
     "version": {
         "major": 4,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     }
 }
