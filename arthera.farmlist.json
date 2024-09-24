@@ -1,0 +1,20 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "arthera"
+    ],
+    "name": "Elk Arthera Farms",
+    "timestamp": "2024-09-31T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x884832028ccbcc28bd7186057fe23ace0850b8d5",
+            "whitelist": "verified"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
