@@ -1,0 +1,20 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "berachain"
+    ],
+    "name": "Elk Berachain Farms",
+    "timestamp": "2025-02-31T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x0EEfE9F6b6C6644F5004a2b50dFee455372B7225",
+            "whitelist": "verified"
+        }
+    ],
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    }
+}
