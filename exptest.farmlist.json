@@ -1,0 +1,16 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "exptest"
+    ],
+    "name": "Elk Exp Testnet Farms",
+    "timestamp": "2024-09-31T17:42:41+00:00",
+    "farms": [
+    ],
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    }
+}
