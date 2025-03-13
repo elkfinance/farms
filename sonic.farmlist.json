@@ -1,0 +1,20 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "sonic"
+    ],
+    "name": "Elk Sonic Farms",
+    "timestamp": "2025-02-31T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x4d646dEE0a350C5994606487797f0a8aa619B81b",
+            "whitelist": "verified"
+        }
+    ],
+    "version": {
+        "major": 3,
+        "minor": 0,
+        "patch": 0
+    }
+}
