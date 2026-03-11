@@ -5,10 +5,19 @@
         "bsc"
     ],
     "name": "Elk BSC Farms",
-    "timestamp": "2023-10-31T17:42:41+00:00",
-    "farms": [],
+    "timestamp": "2025-10-31T17:42:41+00:00",
+    "farms": [
+        {
+            "address": "0x48464F6d98cecAe7B68996c2c1805caDe08D568b",
+            "whitelist": "verified"
+        },
+                {
+            "address": "0x2385ACb9890689Fd52F8934F670c68065ecF354B",
+            "whitelist": "verified"
+        }
+    ],
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     }
